@@ -1,5 +1,13 @@
 ![Nila Theodor B.Sc.](DSC_4030.jpg)
 
+.primary-accent {
+    color: #d97706; /* e.g., an amber/orange tone */
+}
+
+.secondary-accent {
+    color: #059669; /* e.g., a green tone */
+}
+
 # Nila Theodor B.Sc.
 
 ## About
