@@ -23,13 +23,12 @@
 }
 </style>
 
-<!-- This wrapper centers your headline and picture together -->
-<div class="centered-section">
-  <h1>Nila Theodor B.Sc.</h1>
-
   <div class="photo-container">
     <img src="DSC_4030.jpg" alt="My fading photo">
   </div>
+  <!-- This wrapper centers your headline and picture together -->
+<div class="centered-section">
+  <h1>Nila Theodor B.Sc.</h1>
 </div>
 
 # Nila Theodor B.Sc.
