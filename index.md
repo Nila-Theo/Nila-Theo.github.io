@@ -14,7 +14,7 @@ I'm interested in the interaction of materials with light and electricity.
 - Chemical Engineering final project in separation of heavy metals from sewage.
 
 ### Pre-Academic Program for Engineering and Science Degrees Technion – Israel Institute of Technology, 2019-2020
-  A program that provides academic tools and knowledge in physics and mathematics in order to prepare for higher education in engineering and science. Graduated with distinction. GPA: 92
+A program that provides academic tools and knowledge in physics and mathematics in order to prepare for higher education in engineering and science. Graduated with distinction. GPA: 92
 
 ## Experience 
 
