@@ -30,7 +30,7 @@
 
 <!-- Wrap your photo inside the container class -->
 <div class="photo-container">
-  <img src="assets/DSC_4030.jpg" alt="My photo with a gradient">
+  <img src="DSC_4030.jpg" alt="My photo with a gradient">
 </div>
 
 
