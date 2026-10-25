@@ -1,3 +1,5 @@
+![Nila Theodor B.Sc.](DSC_4030.jpg)
+
 # Nila Theodor B.Sc.
 
 ## about
@@ -5,6 +7,9 @@ I'm a Chemistry M.Sc. student in at the Material science department, Weizmann In
 Currently under joint guidance of Prof. Meir Lahav and Prof. Igor Lubomirski.
 In my research, I study electric properties of organic crystals designed through crystal engineering. 
 I'm interested in the interaction of materials with light and electricity.
+
+## My Goals
+I want to create catalog for the materials found in our lab with easy search and submission of new materials. (with automated logging of date received).
 
 ## Education
 
