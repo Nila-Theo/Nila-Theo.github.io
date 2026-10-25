@@ -31,8 +31,6 @@
   <h1>Nila Theodor B.Sc.</h1>
 </div>
 
-# Nila Theodor B.Sc.
-
 ## About
 I'm a Chemistry M.Sc. student in at the Material science department, Weizmann Institute.
 Currently under joint guidance of Prof. Meir Lahav and Prof. Igor Lubomirski.
