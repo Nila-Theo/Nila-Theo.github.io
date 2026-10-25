@@ -1,5 +1,5 @@
 <style>
-/* Center everything inside the main container */
+/* Center everything inside the main section */
 .centered-section {
   text-align: center;
 }
@@ -8,7 +8,7 @@
 .photo-container {
   display: inline-block;
   max-width: 400px;
-  border-radius: 12px; /* Optional rounded corners */
+  border-radius: 12px; 
 }
 
 /* Apply the smooth fade-out mask to the bottom of the image */
@@ -23,13 +23,17 @@
 }
 </style>
 
+<!-- This wrapper centers your picture and headline together -->
+<div class="centered-section">
+  <!-- Picture comes first -->
   <div class="photo-container">
     <img src="DSC_4030.jpg" alt="My fading photo">
   </div>
-  <!-- This wrapper centers your headline and picture together -->
-<div class="centered-section">
+
+  <!-- Headline is now underneath the picture -->
   <h1>Nila Theodor B.Sc.</h1>
 </div>
+
 
 ## About
 I'm a Chemistry M.Sc. student in at the Material science department, Weizmann Institute.
