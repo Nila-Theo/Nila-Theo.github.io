@@ -1,3 +1,8 @@
+Markdown
+---
+layout: default
+---
+
 # Nila Theodor B.Sc.
 
 ## about
