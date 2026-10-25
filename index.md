@@ -19,12 +19,12 @@
 .photo-container::after {
   content: "";
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
-  width: 109%;
-  height: 10%;
+  width: 100%;
+  height: 35%;
   /* This creates a blend from teal to purple with 70% opacity so your photo shows through */
-  background: linear-gradient(135deg, rgba(45, 212, 191, 0.7) 0%, rgba(168, 85, 247, 0.7) 10%);
+  background: linear-gradient(135deg, rgba(45, 212, 191, 0.5) 0%, rgba(168, 85, 247, 0.5) 100%);
 }
 </style>
 
