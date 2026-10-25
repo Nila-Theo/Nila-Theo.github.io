@@ -1,4 +1,38 @@
-![Nila Theodor B.Sc.](DSC_4030.jpg)
+<style>
+/* 1. Create the container and make it relative so the gradient stays inside */
+.photo-container {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 12px; /* Optional rounded corners */
+}
+
+/* 2. Ensure the image fits nicely */
+.photo-container img {
+  display: block;
+  width: 100%;
+  max-width: 400px; /* Adjust size as needed */
+  height: auto;
+}
+
+/* 3. Build the gradient overlay on top of the image */
+.photo-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* This creates a blend from teal to purple with 70% opacity so your photo shows through */
+  background: linear-gradient(135deg, rgba(45, 212, 191, 0.7) 0%, rgba(168, 85, 247, 0.7) 100%);
+}
+</style>
+
+<!-- Wrap your photo inside the container class -->
+<div class="photo-container">
+  <img src="assets/DSC_4030.jpg" alt="My photo with a gradient">
+</div>
+
 
 # Nila Theodor B.Sc.
 
