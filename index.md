@@ -21,10 +21,10 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 109%;
+  height: 10%;
   /* This creates a blend from teal to purple with 70% opacity so your photo shows through */
-  background: linear-gradient(135deg, rgba(45, 212, 191, 0.7) 0%, rgba(168, 85, 247, 0.7) 100%);
+  background: linear-gradient(135deg, rgba(45, 212, 191, 0.7) 0%, rgba(168, 85, 247, 0.7) 10%);
 }
 </style>
 
