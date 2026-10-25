@@ -1,30 +1,36 @@
 <style>
-/* 1. Create the container */
+/* Center everything inside the main container */
+.centered-section {
+  text-align: center;
+}
+
+/* Container for the photo with the bottom fade effect */
 .photo-container {
   display: inline-block;
   max-width: 400px;
   border-radius: 12px; /* Optional rounded corners */
 }
 
-
-/* 2. Apply a fade-out mask to the bottom of the image */
+/* Apply the smooth fade-out mask to the bottom of the image */
 .photo-container img {
   display: block;
   width: 100%;
   height: auto;
   border-radius: 12px;
   
-  /* This creates the smooth fade effect at the bottom */
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
 }
 </style>
 
-<!-- Your photo -->
-<div class="photo-container">
-  <img src="DSC_4030.jpg" alt="My fading photo">
-</div>
+<!-- This wrapper centers your headline and picture together -->
+<div class="centered-section">
+  <h1>Nila Theodor B.Sc.</h1>
 
+  <div class="photo-container">
+    <img src="DSC_4030.jpg" alt="My fading photo">
+  </div>
+</div>
 
 # Nila Theodor B.Sc.
 
