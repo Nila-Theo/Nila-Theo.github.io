@@ -7,14 +7,17 @@ In my research, I study electric properties of organic crystals designed through
 I'm interested in the interaction of materials with light and electricity.
 
 ## Education
+
 ### Dual Degree in Chemistry &amp; Chemical Engineering, Ben Gurion University of the Negev, 2020 - 2025
   An Excellence program that specializes in Nanotechnology. 
 - Chemical Engineering GPA: 84, Chemistry GPA: 91.
 - Chemical Engineering final project in separation of heavy metals from sewage.
+
 ### Pre-Academic Program for Engineering and Science Degrees Technion – Israel Institute of Technology, 2019-2020
   A program that provides academic tools and knowledge in physics and mathematics in order to prepare for higher education in engineering and science. Graduated with distinction. GPA: 92
 
 ## Experience 
+
 ### Research Assistant in Nanotribology Lab, Ben Gurion University of the Negev 2024 – 2025
 - Research and lab work in Nanotribology field- atomic friction, in Prof. Ronen Berkovich’s lab.
 - Analyzing AFM friction maps and extracting physical data using MATLAB.
