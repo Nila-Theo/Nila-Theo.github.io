@@ -1,36 +1,29 @@
 <style>
-/* 1. Create the container and make it relative so the gradient stays inside */
+/* 1. Create the container */
 .photo-container {
-  position: relative;
   display: inline-block;
-  overflow: hidden;
-  border-radius: 12px; /* Optional rounded corners */
+  max-width: 400px;
+}
+    border-radius: 12px; /* Optional rounded corners */
 }
 
-/* 2. Ensure the image fits nicely */
+
+/* 2. Apply a fade-out mask to the bottom of the image */
 .photo-container img {
   display: block;
   width: 100%;
-  max-width: 400px; /* Adjust size as needed */
   height: auto;
-}
-
-/* 3. Build the gradient overlay on top of the image */
-.photo-container::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 35%;
-  /* This creates a blend from teal to purple with 70% opacity so your photo shows through */
-  background: linear-gradient(135deg, rgba(45, 212, 191, 0.5) 0%, rgba(168, 85, 247, 0.5) 100%);
+  border-radius: 12px;
+  
+  /* This creates the smooth fade effect at the bottom */
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
 }
 </style>
 
-<!-- Wrap your photo inside the container class -->
+<!-- Your photo -->
 <div class="photo-container">
-  <img src="DSC_4030.jpg" alt="My photo with a gradient">
+  <img src="DSC_4030.jpg" alt="My fading photo">
 </div>
 
 
