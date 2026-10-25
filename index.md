@@ -3,8 +3,7 @@
 .photo-container {
   display: inline-block;
   max-width: 400px;
-}
-    border-radius: 12px; /* Optional rounded corners */
+  border-radius: 12px; /* Optional rounded corners */
 }
 
 
