@@ -27,7 +27,7 @@
 <div class="centered-section">
   <!-- Picture comes first -->
   <div class="photo-container">
-    <img src="DSC_4030.jpg" alt="My fading photo">
+    <img src="assets/DSC_4030.jpg" alt="My fading photo">
   </div>
 
   <!-- Headline is now underneath the picture -->
