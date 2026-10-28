@@ -66,9 +66,3 @@ A program that provides academic tools and knowledge in physics and mathematics 
 - Research and lab work in Optically Functional Organic Bio-Crystals, in Dr. Benjamin Palmer’s lab.
 - Wet lab work with organic materials, executing experiments according to scientific protocols, analyzing results and drawing conclusions.
 - Sample preparation and component identification using TLC and LCMS.
-
-## Professional Skills
-Programing languages: MATLAB
-proficient in Microsoft Office
-Experienced in organic chemistry, advanced physical chemistry and chemical engineering labs.
-Highly skilled in academic and engineering writing in English and Hebrew.
